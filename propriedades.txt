@@ -1,0 +1,20 @@
+Hotel
+Cinema
+Shopping Center
+House
+Another House
+Supermarket
+Office
+Random Property
+Barber Shop
+Icecream Truck
+Tailor
+Blacksmith
+Barbecue Restaurant
+Arabian Restaurant
+Kebab Shop
+Italian Restaurant
+Cake Factory
+Just Another House
+Japanese Restaurant
+Indian Restaurant
